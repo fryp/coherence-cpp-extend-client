@@ -8,10 +8,10 @@
 
 #include "coherence/lang.ns"
 
+#include <cmath>
 #include <iomanip>
 #include <iostream>
 #include <limits>
-#include <math.h> // cmath has linker errors on some machines (missing pow functions)
 #include <sstream>
 
 using namespace coherence::lang;
